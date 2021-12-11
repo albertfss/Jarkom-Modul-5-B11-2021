@@ -31,7 +31,6 @@
 ![subnetting_06](https://user-images.githubusercontent.com/31863229/144903344-2e9f3397-994c-49b6-ac5a-278e943d1d6c.png)
 
 **CIDR Tree**
-![subnetting_07](https://user-images.githubusercontent.com/31863229/144903365-eb8d880b-90bd-49ee-8c64-dac5e445bf93.png)
 
 
 ## Soal 1
